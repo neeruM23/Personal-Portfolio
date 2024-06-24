@@ -14,6 +14,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/neeraj-mahto-95b9b41b8/"
             data-aos="fade-up"
             data-aos-duration="1000"
+            target="_blank"
           >
             <BiLogoLinkedin className="text-black text-3xl cursor-pointer hover:scale-125" />
           </a>
@@ -22,6 +23,7 @@ const Footer = () => {
             href="https://www.instagram.com/neerux.xo/"
             data-aos="fade-up"
             data-aos-duration="1000"
+            target="_blank"
           >
             <SiInstagram className="text-black text-3xl cursor-pointer hover:scale-125" />
           </a>
@@ -30,13 +32,14 @@ const Footer = () => {
             href=""
             data-aos="fade-up"
             data-aos-duration="1000"
+            target="_blank"
           >
             <SiWhatsapp className="text-black text-3xl cursor-pointer hover:scale-125" />
           </a>
         </div>
 
         <div className="sm:text-[12px]">
-          | Copyright &copy; <span>2024 CapyDev </span> All rights reserved
+          | Copyright &copy; <span>2024 </span> All rights are reserved
           <a href="#"></a> |
         </div>
       </div>

@@ -71,12 +71,15 @@ const Hero = ({ darkMode, toggleDarkMode }) => {
               data-aos-duration="1500"
             >
               <li>
-                <a href="https://github.com/neeruM23">
+                <a href="https://github.com/neeruM23" target="_blank">
                   <FaGithub className="w-[1.8rem] h-[1.8rem] text-xl hover:scale-125" />
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/neeraj-mahto-95b9b41b8/">
+                <a
+                  href="https://www.linkedin.com/in/neeraj-mahto-95b9b41b8/"
+                  target="_blank"
+                >
                   <FaLinkedin className="w-[1.8rem] h-[1.8rem] text-xl hover:scale-125" />
                 </a>
               </li>

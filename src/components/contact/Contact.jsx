@@ -57,7 +57,7 @@ const Contact = () => {
             <input
               className="w-full p-2 px-3 rounded-lg shadow-[0_0_16px_0px_rgba(0,0,0,0.1)]"
               type="email"
-              placeholder="e.g. dummy@mail.com"
+              placeholder="e.g. munesh@mail.com"
               name="email"
               required
             />
